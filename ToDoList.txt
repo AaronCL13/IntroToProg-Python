@@ -1,0 +1,7 @@
+Sweep	1
+Vacuum	2
+Mop	3
+Garbage	4
+Wash Car	5
+Bath Dog	6
+Iron Clothes	7
